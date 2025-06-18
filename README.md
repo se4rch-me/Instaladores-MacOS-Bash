@@ -91,9 +91,6 @@ Los scripts pueden sobrescribir configuraciones previas.
 
 Úsalos bajo tu propia responsabilidad y revisa el código antes de ejecutarlo.
 
-📜 Licencia
-MIT License
-
 🤝 Contribuciones
 ¿Quieres mejorar los scripts o agregar nuevas instalaciones? ¡Pull requests y sugerencias son bienvenidas!
 
